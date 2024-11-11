@@ -1,21 +1,6 @@
 # Title: RSE practice Week_2
 
 ## Description
-Aim:
-Example repo to practice github commands
-
-Folders:
-None 
-
-Files:
-Active Files: jamaican_epi_data.
-              Available from kaggle: https://www.kaggle.com/datasets/campbellsinvestment/jamaican-islandwide-fever-and-respiratory-symptoms?resource=download
-
-Old files: e.g. sjquill.txt
-
-
-
-## Description
 Example repository to practice GitHub commands. 
 
 ## Project Aims
